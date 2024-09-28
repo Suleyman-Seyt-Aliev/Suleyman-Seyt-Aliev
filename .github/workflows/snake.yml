@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:          
           github_user_name: Suleyman-Seyt-Aliev
-          outputs: dist/snake.svg?palette=**orange** # Измените палитру на "orange"
+          outputs: dist/snake.svg?palette=**#FFA500** # Оранжевый цвет в формате HEX
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0        
         with:
