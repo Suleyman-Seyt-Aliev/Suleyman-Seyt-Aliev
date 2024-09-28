@@ -19,11 +19,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suleyman-Seyt-Aliev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-### 
+###  📊 GitHub Stats:
 
 <br clear="both"> 
 
-<img src="https://raw.githubusercontent.com/Suleyman-Seyt-Aliev/Suleyman-Seyt-Aliev/output/snake.svg" alt="Snake animation" /> 
+<img src="https://raw.githubusercontent.com/Suleyman-Seyt-Aliev/output/main/index.html" alt="Snake animation" /> 
 
 ###
 
