@@ -1,7 +1,8 @@
-# 💫 About Me:
-<h2 align="left">Hi 👋! My name is Suleyman and I'm a student.💻 </h2>
+<h1 align="left">Hi 👋! My name is Suleyman and I'm a student.💻 </h1>
 
-<h2 align="left">🌙Welcome to my account!🤝, </h2>
+<h1 align="left">🌙Welcome to my account!🤝, </h1>
+
+# 💫 About Me:
 
 
 <div align="center">
@@ -19,12 +20,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suleyman-Seyt-Aliev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-###  📊 GitHub Stats:
-
-<br clear="both"> 
-
-<img src="https://raw.githubusercontent.com/Suleyman-Seyt-Aliev/output/main/index.html" alt="Snake animation" /> 
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
