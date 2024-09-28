@@ -1,11 +1,11 @@
 # 💫 About Me:
 <h2 align="left">Hi 👋! My name is Suleyman and I'm a student, </h2>
 
-<h2 align="right">🏮☕Welcome to my account!🤝, </h2>
+<h2 align="right">🌕☀️🌙Welcome to my account!🤝, </h2>
 
 
 <div align="center">
-  <img height="300" width="480" src="https://i.pinimg.com/originals/bf/78/09/bf7809ba939168726dc63ee4adc02c55.gif"  />
+  <img height="100" width="480" src="https://i.pinimg.com/originals/bf/78/09/bf7809ba939168726dc63ee4adc02c55.gif"  />
 </div>
 
 # 📊 GitHub Stats:
