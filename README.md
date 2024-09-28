@@ -3,6 +3,11 @@
 <h1 align="left">🌙Welcome to my account!🤝 </h1>
 
 # 💫 About Me:
+<p align="left">I am a novice programmer who joined the Faculty of Programming in 2023. </p>
+
+
+
+
 ###
 
 <br clear="both">
