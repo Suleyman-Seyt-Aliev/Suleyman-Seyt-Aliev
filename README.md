@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 align="left">Hi 👋! My name is Suleyman and I'm a student, </h2>
+<h2 align="left">Hi 👋! My name is Suleyman and I'm a student.💻 </h2>
 
 <h2 align="left">🌙Welcome to my account!🤝, </h2>
 
@@ -9,10 +9,10 @@
 </div>
 
 # 📊 GitHub Stats:
-
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Suleyman-Seyt-Aliev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Suleyman-Seyt-Aliev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suleyman-Seyt-Aliev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
