@@ -20,5 +20,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suleyman-Seyt-Aliev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-![snake gif](https://github.com/Suleyman-Seyt-Aliev/Suleyman-Seyt-Aliev/blob/output/github-contribution-grid-snake.gif)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Suleyman-Seyt-Aliev/Suleyman-Seyt-Aliev/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
