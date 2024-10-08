@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="300" width="480" src="https://i.pinimg.com/originals/bf/78/09/bf7809ba939168726dc63ee4adc02c55.gif"  />
+  <img height="300" width="500" src="https://i.pinimg.com/originals/bf/78/09/bf7809ba939168726dc63ee4adc02c55.gif"  />
 </div>
 
 # 📊 GitHub Stats:
